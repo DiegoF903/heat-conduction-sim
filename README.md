@@ -1,4 +1,3 @@
-﻿# heat-conduction-sim
 # Heat conduction Simulator 
 A python implementation of 1D heat conduction built to visualize and learn the numerical methods used in transport phenomena
 

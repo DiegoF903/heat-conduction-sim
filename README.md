@@ -7,7 +7,7 @@ A python implementation of 1D heat conduction built to visualize and learn the n
 - Finally, this simulator extends the concepts to a two-layer composite wall with convective boundary conditions on both sides
 
 ## Why
-I built this to develope a working understanding of the numerical methods used in computational transport phenomena so I can join a lab. Additionally, this was done through curiosity after learning of the Fourier series in my Differential Equations class.
+I built this to develope a working understanding of the numerical methods used in computational transport phenomena so I can join a lab. Additionally, this was done through curiosity after learning of the Fourier series in my Differential Equations class. Failed runs and erroneous pngs are also included in the repo.
 
 ## Running the simulator
 '''
@@ -19,6 +19,7 @@ python step3-multilayer.py
 
 ## Results
 ![Temperature evolution](step1_animation.gif)
+![Temperature_evolution](step1_explicit.png)
 ![Temperature validation](step2_validation.png)
 ![Layered temperature](step3_multilayer.png)
 
